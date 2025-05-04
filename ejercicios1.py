@@ -20,4 +20,27 @@ with open('movimientos.txt', 'a') as archivo:
     for movimiento in movimientos:
         archivo.write(movimiento + '\n')
 
+#POO
+class Animal:
+    def __init__(self, nombre):
+        self.nombre = nombre
 
+    def hablar(self):
+        print("Hace un sonido.")
+
+# Clase hija
+class Perro(Animal):
+    def hablar(self):
+        print(f"{self.nombre} dice: ¡Guau!")
+
+# Otra clase hija
+class Gato(Animal):
+    def hablar(self):
+        print(f"{self.nombre} dice: ¡Miau!")
+
+# Crear objetos
+perro = Perro("Fido")
+gato = Gato("Mishi")
+
+perro.hablar()
+gato.hablar()

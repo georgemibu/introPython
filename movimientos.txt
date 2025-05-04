@@ -1,3 +1,12 @@
 01/04/2025 - Venta - $5000
 02/04/2025 - Pago servicios - $15000
 03/04/2025 - Compra insumos - $10000
+01/04/2025 - Venta - $5000
+02/04/2025 - Pago servicios - $15000
+03/04/2025 - Compra insumos - $10000
+01/04/2025 - Venta - $5000
+02/04/2025 - Pago servicios - $15000
+03/04/2025 - Compra insumos - $10000
+01/04/2025 - Venta - $5000
+02/04/2025 - Pago servicios - $15000
+03/04/2025 - Compra insumos - $10000
